@@ -36,6 +36,7 @@ age-and-gender-detection/
 ├── deploy_gender.prototxt
 ├── requirements.txt
 └── README.md 
-🙋‍♂️ Author
-Seshathri
-🔗 GitHub Profile
+## 🙋‍♂️ Author
+
+**Seshathri**  
+🔗 [GitHub Profile](https://github.com/seshathri044)
