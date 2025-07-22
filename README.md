@@ -28,7 +28,19 @@ A computer vision project using OpenCV and NumPy to detect a person’s **age ra
 ```bash
 pip install numpy opencv-python
 ```
-<pre lang="markdown"> ```bash 📂 age-and-gender-detection/ ├── detect.py ├── age_net.caffemodel ├── gender_net.caffemodel ├── deploy_age.prototxt ├── deploy_gender.prototxt ├── requirements.txt └── README.md ``` </pre>
+### 📁 Project Structure
+
+```
+📂 age-and-gender-detection/
+├── detect.py
+├── age_net.caffemodel
+├── gender_net.caffemodel
+├── deploy_age.prototxt
+├── deploy_gender.prototxt
+├── requirements.txt
+└── README.md
+```
+
 ## 🙋‍♂️ Author
 
 **Seshathri**  
