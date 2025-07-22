@@ -25,7 +25,9 @@ A computer vision project using OpenCV and NumPy to detect a person’s **age ra
 ## 🚀 How to Run
 
 ### 🔧 1. Install Dependencies
+```bash
 pip install numpy opencv-python
+```
 
 ### 📂 Project Structure
 age-and-gender-detection/
