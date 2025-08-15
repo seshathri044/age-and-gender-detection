@@ -25,8 +25,13 @@ A computer vision project using OpenCV and NumPy to detect a person’s **age ra
 ## 🚀 How to Run
 
 ### 🔧 1. Install Dependencies
+Make sure you have Python 3.8+ installed. Then install the required packages:
 ```bash
-pip install numpy opencv-python
+pip install numpy opencv-python flask flask-socketio pillow
+```
+### 📦 2. Run the Application
+```bash
+python app.py
 ```
 ### 📁 Project Structure
 
